@@ -1,0 +1,45 @@
+body{
+	height: 1000px;
+}
+div {
+	height: 100px;
+	width: 100px;
+	margin: auto;
+}
+div.main{
+	width: 500PX;
+	height: 500px;
+	border: 5px solid red;
+	position: relative;
+}
+
+.satu {
+	background-color: lightgreen;
+}
+
+.dua {
+	background-color: violet;
+	position: absolute;
+	top: 0;
+	left: 0;
+	/*Position: absolute adl posisi yng naik 1 dimensi dan
+	posisi sebelumnya dianggap tidak ada.
+	untuk posisi 0 0 akan mengikuti parentnya/
+	parent terdekat yang non static.*/
+}
+		
+.tiga {
+	background-color: gold;
+}
+
+.f{
+	background-color: pink;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	/*Position: fixed akn mmbuat elemn diam ditempat walaupun
+	browser discroll keatas/kebawah*/
+}
+
+

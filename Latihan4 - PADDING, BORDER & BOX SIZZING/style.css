@@ -1,0 +1,30 @@
+div {
+	width: 600px;
+	margin: auto;
+	text-align: justify;
+	box-sizing: border-box;
+}
+
+.satu {
+	background-color: aqua;
+	padding: 100px;
+	border: 5px solid blue;
+}
+
+.dua{
+	background-color: pink;
+	padding: 50px;
+	border: 10px double grey;
+}
+
+/*Padding hampir sma dngan margin,
+jika diberi padding/border maka ukurannya akan
+bertambah dngan nilai padding/border.
+
+*Shorthand Border,
+Border: width style color;
+style border : solid, dotted, dashed, double.
+
+*Box-sizing: border-box;
+digunakan agar ukuran widht(lebar) tidak berubah/
+bertambah bila diberi padding/border.*/

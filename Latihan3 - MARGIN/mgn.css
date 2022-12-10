@@ -1,0 +1,32 @@
+.satu{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+}
+
+.dua{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+}
+
+.tiga{
+	background-color: green;
+	width: 50px;
+	height: 50px;
+}
+
+/*Overlapping Margin :
+jika 2 margin bertemu vertikal mka ukuran yg terbesar dipakai
+jika 2 margin bertemu hirizontal mka ukuran ke2nya ditambah
+
+*Auto
+jika margin kanan-kiri dibuat auto maka akan berada
+ditengah2 parent/browser
+
+*Shorthand/menyingkat
+margin: 1px; untuk ke4 sisi
+margin: 1px 2px untuk atasbawah, knankiri
+margin: 1px 2px 3px untuk atas, knankiri, bawah
+margin: 1px 2px 3px 4px untuk ukuran searah jarum jam*/

@@ -1,0 +1,26 @@
+div {
+	height: 100px;
+	width: 100px;
+	}
+
+.satu {
+	background-color: lightgreen;
+	position: static;
+	}
+
+.dua {
+	background-color: violet;
+	position: relative;
+	top: 0px;
+	left: 100px;
+	}
+		
+.tiga {
+	background-color: gold;
+	}	
+
+/*Position static adl posisi default dr semua elmen
+
+*Position: relative adl posisi yg mmbuat elemn naik
+satu dimensi, dan tempat sblemnya masih dianggap ada.
+dan posisi 0 0 adalh posisi sebelumnya */	

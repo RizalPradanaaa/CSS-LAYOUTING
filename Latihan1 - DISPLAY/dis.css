@@ -1,0 +1,20 @@
+.main img{ width: 250px;}
+.main span{background-color: red;}
+
+.navigasi a{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+
+.main {
+	background-color: lightgreen;
+	width: 50%
+}
+.main h2{
+	background-color: aqua;
+}
+
+img{
+	display: none;;
+}

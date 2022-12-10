@@ -1,0 +1,14 @@
+p{
+	color: aqua;
+	width: 250px;
+	height: 250px;
+	overflow: scroll;
+}
+/*Dimension :
+height
+width
+
+*Overflow :
+*Visible (default)
+*Auto
+*Hidden */
